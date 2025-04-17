@@ -1,6 +1,4 @@
-Ось детально розписаний опис інструменту `htop` у Markdown-форматі:
 
-```markdown
 # 📊 `htop` — Interactive Process Viewer
 
 `htop` is a powerful, interactive process viewer for Unix systems. It is a more advanced and user-friendly alternative to the traditional `top` command.
@@ -111,4 +109,3 @@ Configuration is saved in:
 - Website: [https://htop.dev](https://htop.dev)  
 - GitHub: [https://github.com/htop-dev/htop](https://github.com/htop-dev/htop)
 
-```
